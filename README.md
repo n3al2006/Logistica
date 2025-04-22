@@ -6,6 +6,3 @@ Tener en cuenta los siguietnes factores a contribuir:
 - Seguimientos de incidencias para las tareas
 - Revision del código
 - Licencias
-
-´´´.env
-print("Hola mundo")
