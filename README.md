@@ -7,5 +7,5 @@ Tener en cuenta los siguietnes factores a contribuir:
 - Revision del código
 - Licencias
 
-´´´bash
+´´´.env
 print("Hola mundo")
